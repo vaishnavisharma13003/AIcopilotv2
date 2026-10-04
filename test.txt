@@ -1,0 +1,9 @@
+ollama run llama3.2
+
+//backend
+python -m venv venv
+venv\Scripts\activate
+uvicorn main:app --reload --port 8000
+
+//frontend
+

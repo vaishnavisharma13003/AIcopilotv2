@@ -1,0 +1,53 @@
+{
+  "_notice": "THIS IS DEMO DATA ONLY. These are fictional, made-up job postings used to demonstrate the MCP search_jobs tool. They are NOT real, live vacancies. Do not present them to end users as real jobs.",
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer (React)",
+      "company": "DemoTech Solutions",
+      "location": "Bangalore",
+      "keywords": ["react", "javascript", "css", "html", "frontend"],
+      "description": "Build UI components with React and collaborate with backend engineers on REST APIs."
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer (Python/FastAPI)",
+      "company": "DemoTech Solutions",
+      "location": "Remote",
+      "keywords": ["python", "fastapi", "backend", "postgresql", "api"],
+      "description": "Design and build backend services and APIs using Python and FastAPI."
+    },
+    {
+      "id": 3,
+      "title": "GenAI / ML Engineer",
+      "company": "SampleAI Labs",
+      "location": "Pune",
+      "keywords": ["python", "langchain", "llm", "genai", "machine learning", "rag"],
+      "description": "Work on retrieval-augmented generation pipelines and LLM-powered applications."
+    },
+    {
+      "id": 4,
+      "title": "Full Stack Developer",
+      "company": "MockSoft Inc",
+      "location": "Ludhiana",
+      "keywords": ["react", "node", "javascript", "mongodb", "fullstack"],
+      "description": "Own features end-to-end across a Next.js frontend and Node.js backend."
+    },
+    {
+      "id": 5,
+      "title": "Data Scientist",
+      "company": "SampleAI Labs",
+      "location": "Remote",
+      "keywords": ["python", "pandas", "machine learning", "statistics", "sql"],
+      "description": "Analyze data and build predictive models for internal demo products."
+    },
+    {
+      "id": 6,
+      "title": "DevOps Engineer",
+      "company": "DemoTech Solutions",
+      "location": "Hyderabad",
+      "keywords": ["docker", "kubernetes", "aws", "ci/cd", "linux"],
+      "description": "Maintain CI/CD pipelines and cloud infrastructure for demo environments."
+    }
+  ]
+}
